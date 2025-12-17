@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Pavithra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Portfolio-projects**
+Welcome to my portfolio! Here you'll find some of the projects I've been working on.
 
-<!---
-Pavi14ps/Pavi14ps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Project 1: Retail Business Performance Analysis**
+• Analyzed retail sales and customer performance data using Excel to identify trends, growth opportunities, and performance gaps
+• Cleaned and organized raw data to improve accuracy and consistency
+• Created summary reports and visual insights to support business decision-making
+• Delivered actionable recommendations to improve sales performance and operational efficiency
