@@ -2,6 +2,8 @@
 Welcome to my portfolio! Here you'll find some of the projects I've been working on.
 
 **Project 1: Retail Business Performance Analysis**
+
+
 • Analyzed retail sales and customer performance data using Excel to identify trends, growth opportunities, and performance gaps
 • Cleaned and organized raw data to improve accuracy and consistency
 • Created summary reports and visual insights to support business decision-making
