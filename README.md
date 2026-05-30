@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Pavithra Panneerselvam
 
-### 📊Experienced Professional Focused on Business Analytics, KPI Reporting, and Data-Driven Decision Making
+### 📊Experienced Professional Focused on Business Analytics, Data Analytics, KPI Reporting, and Data-Driven Decision Making
 
-I am passionate about transforming data into actionable business insights through analytics, visualization, and KPI-driven decision-making.
-
+With 7+ years of professional experience, I am focused on leveraging business analytics, data visualization, and KPI reporting to transform data into actionable business insights and support data-driven decision-making.
 ---
 
 ## 🎯 Career Focus
