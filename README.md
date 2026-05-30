@@ -2,8 +2,7 @@
 
 ### 📊Experienced Professional Focused on Business Analytics, Data Analytics, KPI Reporting, and Data-Driven Decision Making
 
-**I am passionate about transforming data into actionable business insights through analytics, visualization, and KPI-driven decision-making.
-**---
+I am passionate about transforming data into actionable business insights through analytics, visualization, and KPI-driven decision-making.
 
 ## 🎯 Career Focus
 
